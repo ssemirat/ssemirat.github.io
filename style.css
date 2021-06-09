@@ -243,16 +243,16 @@ Wide styles
 	.main
 	{
 		float: left;
-		width: 65%;
+		width: 90%;
 		margin-right: 5%;
 		margin-bottom: 1em;
 	}
 
 	.aside
 	{
-		float: left;
+		float: right;
 		width: 25%;
-		margin-bottom: 1em;
+		margin-left: 1em;
 	}
 
 	.footer { padding: 1em 1.5em; }
