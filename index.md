@@ -3,4 +3,4 @@ title: "Accueil"
 layout: "default"
 ---
 
-![Bienvenue](photo2.jpg)
+<img src="photo2.jpg" alt="Bienvenue" width="150px"/>
