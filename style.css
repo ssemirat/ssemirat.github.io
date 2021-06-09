@@ -1,11 +1,22 @@
+body {
+  font-family : sans-serif;
+}
 h1 {
-  color:red;
+  font-size: xx-large;
 }
 a:link, a:visited  {
   color: white;
   background-color: black;
+  padding: 4pt;
+  font-size: x-large;
 }
 a:hover, a:active {
-  color: black;
-  background-color: gray;
+  color: orange;
+  background-color: black;
+  padding: 4pt;
+  font-size: x-large;
+}
+#footer {
+  font-size: small;
+  font-family: system-ui;
 }
