@@ -3,4 +3,4 @@ title: "Accueil"
 layout: "default"
 ---
 
-Bienvenue
+![Bienvenue](photo2.jpg)
