@@ -1,6 +1,5 @@
 ---
-title: "Menu"
+title: "Accueil"
 ---
 
-- [Research (en)](research.html)
-- [Enseignement (fr)](enseignement.html)
+Bienvenue
