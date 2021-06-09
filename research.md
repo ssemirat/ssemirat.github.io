@@ -1,7 +1,7 @@
 ---
 title: "Research"
+layout: "default"
 ---
-[Home](index.html)
 
 <iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=stephan-semirat&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_resume=oui&langue=Anglais&tri_exp=typdoc&tri_exp2=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/styles_publicationsHAL.css" style="width:100%;border:none;height:1000px;">
 </iframe>
