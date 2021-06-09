@@ -1,3 +1,9 @@
 h1 {
   color:red;
 }
+a:link, a:visited,  {
+  color: blue;  
+}
+a:hover, a:active {
+  color: yellow;
+}
