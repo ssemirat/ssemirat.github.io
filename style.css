@@ -9,12 +9,14 @@ a:link, a:visited  {
   background-color: black;
   padding: 4pt;
   font-size: x-large;
+  margin: 4pt;
 }
 a:hover, a:active {
   color: orange;
   background-color: black;
   padding: 4pt;
   font-size: x-large;
+  margin: 4pt;
 }
 #footer {
   font-size: small;
