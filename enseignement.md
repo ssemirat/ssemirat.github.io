@@ -3,7 +3,7 @@ title: "Enseignement"
 layout: "default"
 ---
 
-# Marchés financiers
+## Marchés financiers
 
 Cours de L2 d'&Eacute;conomie-Gestion (2020)
 
