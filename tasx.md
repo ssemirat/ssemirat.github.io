@@ -14,7 +14,8 @@ Il permet de rédiger des activités interactives (qcm, textes à trous,... avec
 	- Recharger le fichier (CTRL+R sous *Firefox*) pour refaire l'activité avec d'autres valeurs
 - Pour modifier les exemples d'activités : 
 	- éditer par exemple le fichier exempleA.tex 
-	- recompiler le fichier via la commande : <p style="align:center;font-family:system-ui;">htlatex exempleA.tex "tasx,mathml,charset=utf-8" " -cunihtf -utf8"</p>
+	- recompiler le fichier via la commande :
+	 <p style="align:center;font-family:system-ui;">htlatex exempleA.tex "tasx,mathml,charset=utf-8" " -cunihtf -utf8"</p>
 	  À noter : il est nécessaire d'avoir installé LaTeX et l'extension Tex4ht) 
 - Il est possible d'intégrer les exercices dans une plateforme pédagogique (type moodle) avec enregistrement des scores des utilisateurs inscrits à la plateforme (les exercices communiquent avec la plateforme via la norme *SCORM*). 
 	- Pour cela, par exemple l'outil *Reload project : Editor* peut être utilisé.<br />
