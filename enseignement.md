@@ -21,3 +21,9 @@ Cours de L1-Miashs
 [Chap.5 : Intégration](https://cloud.univ-grenoble-alpes.fr/index.php/s/RHWtofpyykqcDTx)
 [Chap.6 : Négligeables](https://cloud.univ-grenoble-alpes.fr/index.php/s/cs2ZjnTAiGNj47q)
 [Chap.7 : Développements limités](https://cloud.univ-grenoble-alpes.fr/index.php/s/GPCFE3k9SxJYrci)
+
+## Optimisation convexe
+
+Cours de L3 - Economie-gestion (2020)
+
+[Cours](https://cloud.univ-grenoble-alpes.fr/index.php/s/qGPJXz7xEgsrQKi)
