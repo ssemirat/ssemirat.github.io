@@ -23,6 +23,7 @@ Cours de L1-Miashs
 [Chap.7 : Développements limités](https://cloud.univ-grenoble-alpes.fr/index.php/s/GPCFE3k9SxJYrci)
 
 ## Optimisation convexe
+### dont introduction aux réseaux de neurones
 
 Cours de L3 - Economie-gestion (2020)
 
