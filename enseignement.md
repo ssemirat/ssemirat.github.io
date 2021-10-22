@@ -7,7 +7,7 @@ layout: "default"
 
 Cours de L2 d'&Eacute;conomie-Gestion (2020)
 
-- <a href="https://cloud.univ-grenoble-alpes.fr/index.php/s/AfPz7eLwXSfFzd4">Transparents de cours</a>
+- Cours : [Partie 1 : Taux d'intérêt d'équilibre](https://cloud.univ-grenoble-alpes.fr/index.php/s/sZPySzjbZcHPDjB), [Partie 2 : Marché sur plusieurs pérodes](https://cloud.univ-grenoble-alpes.fr/index.php/s/PP5HZJt2idMjXz5), [Partie 3 : Marché avec incertitudes](https://cloud.univ-grenoble-alpes.fr/index.php/s/WH369ei52ikDnT3)
 - <a href="https://cloud.univ-grenoble-alpes.fr/index.php/s/FXoii3DGpZXDJCY">Exercices de TD et examens</a>
 
 ## Analyse 1
