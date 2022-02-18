@@ -13,6 +13,10 @@ Cours de L2 - &Eacute;conomie-Gestion (2020)
 ### Financial markets (Enseignement à distance, en anglais)
 - [Course]{https://cloud.univ-grenoble-alpes.fr/index.php/s/jNLEtZpBJngA9s6}
 
+## Introduction à la micro-économie
+
+- Cours : [Chap. 1 : La méthode microéconomique]{https://cloud.univ-grenoble-alpes.fr/index.php/s/qyRXyasmMHQbk2P}, [Chap. 2 : La demande du consommateur]{https://cloud.univ-grenoble-alpes.fr/index.php/s/5JDafjySab8G8y5}, [Chap. 3 : L'offre du producteur]{https://cloud.univ-grenoble-alpes.fr/index.php/s/PLPqCDAgbHg4SCi}, [Chap. 4 : Les marchés concurrentiels]{https://cloud.univ-grenoble-alpes.fr/index.php/s/naKYegdAzp4RB6E}, [Chap 5 : Défaillances de marché]{https://cloud.univ-grenoble-alpes.fr/index.php/s/ep4rnxXg25g8rp7}
+
 ## Analyse 1
 
 Cours de L1-Miashs (2020-21 pour les fonctions ; 2021-22 pour les suites)
