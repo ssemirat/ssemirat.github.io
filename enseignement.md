@@ -11,6 +11,7 @@ Cours de L2 - &Eacute;conomie-Gestion (2020)
 - <a href="https://cloud.univ-grenoble-alpes.fr/index.php/s/FXoii3DGpZXDJCY">Exercices de TD et examens</a>
 
 ### Financial markets (Enseignement à distance, en anglais)
+
 - [Course]{https://cloud.univ-grenoble-alpes.fr/index.php/s/jNLEtZpBJngA9s6}
 
 ## Introduction à la micro-économie
