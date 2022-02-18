@@ -18,6 +18,15 @@ Cours de L2 - &Eacute;conomie-Gestion (2020)
 
 - Cours : [Chap. 1 : La méthode microéconomique](https://cloud.univ-grenoble-alpes.fr/index.php/s/qyRXyasmMHQbk2P), [Chap. 2 : La demande du consommateur](https://cloud.univ-grenoble-alpes.fr/index.php/s/5JDafjySab8G8y5), [Chap. 3 : L'offre du producteur](https://cloud.univ-grenoble-alpes.fr/index.php/s/PLPqCDAgbHg4SCi), [Chap. 4 : Les marchés concurrentiels](https://cloud.univ-grenoble-alpes.fr/index.php/s/naKYegdAzp4RB6E), [Chap 5 : Défaillances de marché](https://cloud.univ-grenoble-alpes.fr/index.php/s/ep4rnxXg25g8rp7)
 
+## Optimisation
+### dont introduction aux réseaux de neurones
+
+Cours de L3 - &Eacute;conomie-gestion (2022)
+
+[Introduction](https://cloud.univ-grenoble-alpes.fr/index.php/s/CCZdkL3Y9YHxTLG)
+[Chap 1 : Les bases de l'optimisation](https://cloud.univ-grenoble-alpes.fr/index.php/s/jNLEtZpBJngA9s6)
+[Chap 2 : Descente de gradient](https://cloud.univ-grenoble-alpes.fr/index.php/s/JK3cnktYn8oXEtd)
+
 ## Analyse 1
 
 Cours de L1-Miashs (2020-21 pour les fonctions ; 2021-22 pour les suites)
@@ -33,12 +42,3 @@ Fonctions : [Chap.2 : Limites](https://cloud.univ-grenoble-alpes.fr/index.php/s/
 [Chap.5 : Intégration](https://cloud.univ-grenoble-alpes.fr/index.php/s/RHWtofpyykqcDTx)
 [Chap.6 : Négligeables](https://cloud.univ-grenoble-alpes.fr/index.php/s/cs2ZjnTAiGNj47q)
 [Chap.7 : Développements limités](https://cloud.univ-grenoble-alpes.fr/index.php/s/GPCFE3k9SxJYrci)
-
-## Optimisation
-### dont introduction aux réseaux de neurones
-
-Cours de L3 - &Eacute;conomie-gestion (2022)
-
-[Introduction](https://cloud.univ-grenoble-alpes.fr/index.php/s/CCZdkL3Y9YHxTLG)
-[Chap 1 : Les bases de l'optimisation](https://cloud.univ-grenoble-alpes.fr/index.php/s/jNLEtZpBJngA9s6)
-[Chap 2 : Descente de gradient](https://cloud.univ-grenoble-alpes.fr/index.php/s/JK3cnktYn8oXEtd)
