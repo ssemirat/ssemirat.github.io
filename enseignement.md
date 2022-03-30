@@ -27,6 +27,22 @@ Cours de L3 - &Eacute;conomie-gestion (2022)
 [Chap 1 : Les bases de l'optimisation](https://cloud.univ-grenoble-alpes.fr/index.php/s/jNLEtZpBJngA9s6)
 [Chap 2 : Descente de gradient](https://cloud.univ-grenoble-alpes.fr/index.php/s/JK3cnktYn8oXEtd)
 
+## Introduction à la recherche opérationnelle
+
+Cours de L2 - &Eacute;conomie-gestion (2022)
+
+[Chap 1 : Introduction](https://cloud.univ-grenoble-alpes.fr/index.php/s/pM5RYicdQa4pQtN)
+[Chap 2 : Résolution des programmes](https://cloud.univ-grenoble-alpes.fr/index.php/s/MBkNfWw2Y7QWasy)
+[Chap 3 : Programmes linéaires](https://cloud.univ-grenoble-alpes.fr/index.php/s/snEgj77apFtfaqw)
+[Chap 4 : Forme canonique et solution](https://cloud.univ-grenoble-alpes.fr/index.php/s/MrRmFtfdtzBBrXX)
+[Chap 5 : Dualité](https://cloud.univ-grenoble-alpes.fr/index.php/s/KoPNCJo6cR4FcX8)
+[Chap 5 : Dualité](https://cloud.univ-grenoble-alpes.fr/index.php/s/KoPNCJo6cR4FcX8)
+[Chap 6 : Propriétés des graphes](https://cloud.univ-grenoble-alpes.fr/index.php/s/jwZsSyb5CaWxYeT)
+[Chap 7 : Algorithmes sur les graphes](https://cloud.univ-grenoble-alpes.fr/index.php/s/QArfMcBk4DxSpEN)
+
+
+
+
 ## Analyse 1
 
 Cours de L1-Miashs (2020-21 pour les fonctions ; 2021-22 pour les suites)
