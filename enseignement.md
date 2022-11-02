@@ -12,7 +12,7 @@ Cours de L2 - &Eacute;conomie-Gestion (2020)
 
 ### Financial markets (Enseignement à distance, en anglais)
 
-- [Course](https://cloud.univ-grenoble-alpes.fr/s/XdmGTeFCkErHK3E)
+- [Course](https://cloud.univ-grenoble-alpes.fr/s/smaLBysK3ij5jEZ)
 
 ## Introduction à la micro-économie
 
