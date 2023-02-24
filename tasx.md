@@ -23,4 +23,6 @@ Il permet de rédiger des activités interactives (qcm, textes à trous,... avec
 
 Ne pas hésiter à me contacter pour plus de détails.
 
-<iframe src="https://drive.google.com/embeddedfolderview?id=1cPlp4t8IRXIjJ2aRi-W4OXJ90bkmoat6" width="100%" height="100%"></iframe>
+[Dossier à télécharger](https://cloud.univ-grenoble-alpes.fr/s/kjNk8ANostCXC9z)
+
+<img src="https://cloud.univ-grenoble-alpes.fr/s/kqaMGnLbTWcEJJX" alt="Apercu"/>
