@@ -25,4 +25,4 @@ Ne pas hésiter à me contacter pour plus de détails.
 
 [Dossier à télécharger](https://cloud.univ-grenoble-alpes.fr/s/kjNk8ANostCXC9z)
 
-<img src="https://cloud.univ-grenoble-alpes.fr/s/kqaMGnLbTWcEJJX" alt="Apercu"/>
+[Aperçu](https://cloud.univ-grenoble-alpes.fr/s/kqaMGnLbTWcEJJX)
