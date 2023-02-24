@@ -3,33 +3,16 @@ title: "Enseignement"
 layout: "default"
 ---
 
-## Marchés financiers
-
-Cours de L2 - &Eacute;conomie-Gestion (2020)
-
-- Cours : [Partie 1 : Taux d'intérêt d'équilibre](https://cloud.univ-grenoble-alpes.fr/index.php/s/sZPySzjbZcHPDjB), [Partie 2 : Marché sur plusieurs pérodes](https://cloud.univ-grenoble-alpes.fr/index.php/s/PP5HZJt2idMjXz5), [Partie 3 : Marché avec incertitudes](https://cloud.univ-grenoble-alpes.fr/index.php/s/WH369ei52ikDnT3)
-- <a href="https://cloud.univ-grenoble-alpes.fr/index.php/s/FXoii3DGpZXDJCY">Exercices de TD et examens</a>
-
-### Financial markets (Enseignement à distance, en anglais)
-
-- [Course](https://cloud.univ-grenoble-alpes.fr/s/smaLBysK3ij5jEZ)
+## Marchés financiers L2 - &Eacute;co-G - [PDFs](https://cloud.univ-grenoble-alpes.fr/s/JwjH6EGRbSpTa3K)
+### Financial markets (Enseignement à distance, en anglais) - [PDF](https://cloud.univ-grenoble-alpes.fr/s/smaLBysK3ij5jEZ)
 
 ## Introduction à la micro-économie
 
 - Cours : [Chap. 1 : La méthode microéconomique](https://cloud.univ-grenoble-alpes.fr/index.php/s/qyRXyasmMHQbk2P), [Chap. 2 : La demande du consommateur](https://cloud.univ-grenoble-alpes.fr/index.php/s/5JDafjySab8G8y5), [Chap. 3 : L'offre du producteur](https://cloud.univ-grenoble-alpes.fr/index.php/s/PLPqCDAgbHg4SCi), [Chap. 4 : Les marchés concurrentiels](https://cloud.univ-grenoble-alpes.fr/index.php/s/naKYegdAzp4RB6E), [Chap 5 : Défaillances de marché](https://cloud.univ-grenoble-alpes.fr/index.php/s/ep4rnxXg25g8rp7)
 
-## Optimisation
-### dont introduction aux réseaux de neurones
+## Optimisation (dont introduction aux réseaux de neurones) - L3 - Eco-G - [PDFs](https://cloud.univ-grenoble-alpes.fr/s/5GApz4WcZj3SpR9)
 
-Cours de L3 - &Eacute;conomie-gestion (2022)
-
-[PDFs](https://cloud.univ-grenoble-alpes.fr/s/5GApz4WcZj3SpR9)
-
-## Introduction à la recherche opérationnelle
-
-Cours de L2 - &Eacute;conomie-gestion (2022)
-
-[PDFs](https://cloud.univ-grenoble-alpes.fr/s/rSGtCaQy3QGPtH4)
+## Introduction à la recherche opérationnelle - L2 - Eco-G [PDFs](https://cloud.univ-grenoble-alpes.fr/s/rSGtCaQy3QGPtH4)
 
 ## Analyse 1
 
