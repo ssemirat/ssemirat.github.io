@@ -23,13 +23,13 @@ Cours de L2 - &Eacute;conomie-Gestion (2020)
 
 Cours de L3 - &Eacute;conomie-gestion (2022)
 
-[PDFs]{https://cloud.univ-grenoble-alpes.fr/s/5GApz4WcZj3SpR9}
+[PDFs](https://cloud.univ-grenoble-alpes.fr/s/5GApz4WcZj3SpR9)
 
 ## Introduction à la recherche opérationnelle
 
 Cours de L2 - &Eacute;conomie-gestion (2022)
 
-[PDFs]{https://cloud.univ-grenoble-alpes.fr/s/rSGtCaQy3QGPtH4}
+[PDFs](https://cloud.univ-grenoble-alpes.fr/s/rSGtCaQy3QGPtH4)
 
 ## Analyse 1
 
