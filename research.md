@@ -2,9 +2,13 @@
 title: "Research"
 layout: "default"
 ---
+### Fields of research
+
+Game theory, Cheap talk, Information economics, Personnel economics
+
 ### Publications
 
-- Christophe Bravard, Jacques Durieu, Jurjen Kamphorst, Sebastian Roché, Stéphan Sémirat,[Should the police give priority to violence within criminal organizations? A personnel economics perspective](https://doi.org/10.1111/jpet.12666), Journal of Public Economic Theory, 2023
+- Christophe Bravard, Jacques Durieu, Jurjen Kamphorst, Sebastian Roché, Stéphan Sémirat, [Should the police give priority to violence within criminal organizations? A personnel economics perspective](https://doi.org/10.1111/jpet.12666), Journal of Public Economic Theory, 2023
 - Christophe Bravard, Jacques Durieu, Sudipta Sarangi, Stéphan Sémirat, [False information from near and far](https://doi.org/10.1016/j.geb.2022.11.002), Games and Economic Behavior, Volume 137, 2023, Pages 152-174
 - Stéphan Sémirat, Françoise Forges, [Strategic information transmission with sender's approval: The single-crossing case](https://doi.org/10.1016/j.geb.2022.05.004), Games and Economic Behavior, Volume 134, 2022, Pages 242-263
 - Stéphan Sémirat, [Skewed information transmission: The effect of complementarities in a multi-dimensional cheap talk game](https://doi.org/10.1016/j.jebo.2019.03.012), Journal of Economic Behavior & Organization, Volume 161, 2019, Pages 1-19
