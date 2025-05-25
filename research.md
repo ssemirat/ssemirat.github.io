@@ -2,9 +2,6 @@
 title: "Research"
 layout: "default"
 ---
-### Fields of research
-
-Game theory, Cheap talk games, Information economics, Personnel economics
 
 ### Publications
 
