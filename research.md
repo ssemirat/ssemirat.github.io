@@ -8,6 +8,7 @@ Game theory, Cheap talk games, Information economics, Personnel economics
 
 ### Publications
 
+- Stéphan Sémirat, Françoise Forges, [Converging better response dynamics in sender-receiver games](https://cloud.univ-grenoble-alpes.fr/s/765YTDKyNcaLqsr), Mathematics of Operational Research, Forthcoming, 2025
 - Christophe Bravard, Jacques Durieu, Jurjen Kamphorst, Sebastian Roché, Stéphan Sémirat, [Should the police give priority to violence within criminal organizations? A personnel economics perspective](https://doi.org/10.1111/jpet.12666), Journal of Public Economic Theory, 2023
 - Christophe Bravard, Jacques Durieu, Sudipta Sarangi, Stéphan Sémirat, [False information from near and far](https://doi.org/10.1016/j.geb.2022.11.002), Games and Economic Behavior, Volume 137, 2023, Pages 152-174
 - Stéphan Sémirat, Françoise Forges, [Strategic information transmission with sender's approval: The single-crossing case](https://doi.org/10.1016/j.geb.2022.05.004), Games and Economic Behavior, Volume 134, 2022, Pages 242-263
