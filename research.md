@@ -2,6 +2,10 @@
 title: "Research"
 layout: "default"
 ---
+### Working papers
+
+- Stéphan Sémirat, [Selecting equilibria in single peaked, single crossing sender-receiver cheap talk games with finitely many types](https://cloud.univ-grenoble-alpes.fr/s/gRoRMs5aX4nmaqW), November 2025
+
 
 ### Publications
 
