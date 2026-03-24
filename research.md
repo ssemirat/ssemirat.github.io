@@ -9,7 +9,7 @@ layout: "default"
 
 ### Publications
 
-- Stéphan Sémirat, Françoise Forges, [Converging better response dynamics in sender-receiver games](https://cloud.univ-grenoble-alpes.fr/s/765YTDKyNcaLqsr), Mathematics of Operational Research, Forthcoming, 2025
+- Stéphan Sémirat, Françoise Forges, [Converging better response dynamics in sender-receiver games](https://cloud.univ-grenoble-alpes.fr/s/765YTDKyNcaLqsr), Mathematics of Operational Research, 2025
 - Christophe Bravard, Jacques Durieu, Jurjen Kamphorst, Sebastian Roché, Stéphan Sémirat, [Should the police give priority to violence within criminal organizations? A personnel economics perspective](https://cloud.univ-grenoble-alpes.fr/s/yHFFWe3RH9ciimT), Journal of Public Economic Theory, 2023
 - Christophe Bravard, Jacques Durieu, Sudipta Sarangi, Stéphan Sémirat, [False information from near and far](https://cloud.univ-grenoble-alpes.fr/s/mHoRYRFo4ZmqLEA), Games and Economic Behavior, Volume 137, 2023, Pages 152-174
 - Stéphan Sémirat, Françoise Forges, [Strategic information transmission with sender's approval: The single-crossing case](https://cloud.univ-grenoble-alpes.fr/s/bq87SoKN4tsbctb), Games and Economic Behavior, Volume 134, 2022, Pages 242-263
