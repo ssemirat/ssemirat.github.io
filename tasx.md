@@ -49,4 +49,3 @@ layout: "default"
 [Download the folder](https://cloud.univ-grenoble-alpes.fr/s/kjNk8ANostCXC9z)
 
 [Preview](https://cloud.univ-grenoble-alpes.fr/s/kqaMGnLbTWcEJJX)
-```
